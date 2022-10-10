@@ -1,4 +1,4 @@
-# london-tube-pathfinding
+# London Tube Pathfinding
 Implementation of pathfinding algorithms for the London Tube.  
   
 Algorithms include A* and Dijkstra's (Dijkstra's is implemented as a general version of A* with no heuristic)  
